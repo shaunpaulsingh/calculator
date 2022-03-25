@@ -1,5 +1,8 @@
 html{
-  background-color: #eeeeee;
+  background: url('./background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px;
 }
 
 .App {
@@ -49,11 +52,12 @@ table{
 }
 button{
   font-size: +2em;
-  color:#ffffff;
+  color:#282c34;
   height: 100px;
   width: 100px;
-  border-radius: 50%;
-  background-color: #282c34;
+  border-radius: 15%;
+  background-color: #ffffff;
+  border: 0em;
 }
 .numdisplay{
   font-size: +4em;
