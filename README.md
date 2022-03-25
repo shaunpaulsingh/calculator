@@ -1,3 +1,11 @@
+# React Calculator
+
+I made this to learn React. It is a simple simple calculator that does an operation on only 2 numbers.
+We should ideally be pushing onto a stack and doing the operations from there but I am learning!
+
+Love,
+Shaun
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
