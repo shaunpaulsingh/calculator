@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { Component } from 'react';
 
@@ -84,20 +83,7 @@ class CalculatorComponent extends Component{
 
 }
 
-class Display extends Component{
-  render () {
-    return (
-      <>
-        <div>This is the number</div>
-      </>
-    )
-  }
-}
-
 class Buttons extends Component{
-  constructor(props){
-    super(props)
-  }
 
   keyDown (num) {
     //console.log(num)
