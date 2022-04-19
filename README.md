@@ -3,6 +3,8 @@
 I made this to learn React. It is a simple simple calculator that does an operation on only 2 numbers.
 We should ideally be pushing onto a stack and doing the operations from there but I am learning!
 
+Demo should be available on the github page.
+
 Love,
 Shaun
 
