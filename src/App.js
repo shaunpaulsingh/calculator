@@ -23,6 +23,7 @@ class CalculatorComponent extends Component{
 
     this.keyDown = this.keyDown.bind(this);
     this.operatorDown = this.operatorDown.bind(this);
+    
   }
   
 
